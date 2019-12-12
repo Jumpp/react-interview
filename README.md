@@ -1,5 +1,3 @@
-This app is intended as a React pre-task for applying to Buutti as a developer.
-
 <b>Tasks:</b>
 
 1. Refactor this app with the following criterion:
@@ -10,6 +8,12 @@ This app is intended as a React pre-task for applying to Buutti as a developer.
 
 2. Write unittests to test 1 component well.
 
-<b>To return:</b>
+EDIT:
+Notes from the fork author:
+```
+I decided against using an actual UI framework. I wanted the assignment to be
+mostly my handwriting, and a framework always bring conventions and a style.
 
--   Fork this repo to your own github, gitlab or bitbucket account and send the interviewer the link to that repo.
+A thing i added was the "react-time-ago" (totally unnecessarily) and
+a cdn stylesheet link for semantic UIs.
+```
