@@ -14,6 +14,6 @@ Notes from the fork author:
 I decided against using an actual UI framework. I wanted the assignment to be
 mostly my handwriting, and a framework always bring conventions and a style.
 
-The only thing i added was the "react-time-ago" (totally unnecessarily) and
+The only thing i added was the "react-time-ago" (totally unnecessarily), "shortid" and
 a cdn stylesheet link for semantic UIs.
 ```
